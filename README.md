@@ -81,7 +81,7 @@ $ python3 main.py --epochs 100 --numFold 6 --withKfold 0 --valL1 0 --valL2 0
 ### Linear Regression+ Lasso (L1 regularization)  </br>
 ![caption](figures/L1fig12.png) 
 
-### Linear Regression+ Rich (L2 regularization)  </br>
+### Linear Regression+ Ridge (L2 regularization)  </br>
 ![caption](figures/L2fig8.png) 
 
 ### Linear Regression+ ElastikNet (L1+L2 regularization)  </br>
